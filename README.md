@@ -5,7 +5,7 @@
  Feature | Visual |
 | :--- | :--- |
 | **Material 3 Native UI**: Built with Jetpack Compose to provide a seamless, modern, and intuitive user experience following current design principles. | ![Main Screen](images/main.png) |
-| **Universal Monolithic Architecture**: Unlike legacy engines requiring discrete downloads, this application leverages a single, unified model supporting **100+ languages out-of-the-box** for a true universal translator experience. | ![Input Language Menu](images/input_language.png) |
+| **Universal Monolithic Architecture**: Unlike legacy engines requiring discrete downloads, this application leverages a single, unified model supporting **100+ languages out-of-the-box** ([See supported languages](docs/TOP_100_LANGUAGES_BY_POPULATION.md)) for a true universal translator experience. | ![Input Language Menu](images/input_language.png) |
 | **Absolute Data Sovereignty**: 100% of inference is executed locally with zero network requests, ensuring security and privacy in air-gapped or secure environments. | ![Offline Translation](images/offline_translation.png) |
 | **Streaming Inference Engine**: Real-time partial results are rendered as the user speaks, delivering a low-latency feedback loop that traditional "capture-then-process" architectures cannot match. | *(Integrated into main interface)* |
 | **Programmable Translation**: The translation logic is decoupled from the core engine, allowing developers to inject "Styles" via prompt engineering for context-aware, professionally-tailored outputs. | ![Custom Translation](images/custom_translation.png) |
