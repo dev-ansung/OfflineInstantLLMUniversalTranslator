@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+    <language displayName="Chinese (Traditional)" localName="繁體中文" languageCode="zh-TW" country="Taiwan" />
+    <language displayName="Chinese (Simplified)" localName="简体中文" languageCode="zh-CN" country="China" />
+    <language displayName="Chinese (Hong Kong)" localName="香港粵語" languageCode="zh-HK" country="Hong Kong" />
+
+    <language displayName="English (US)" localName="English (US)" languageCode="en-US" country="United States" />
+    <language displayName="English (UK)" localName="English (UK)" languageCode="en-GB" country="United Kingdom" />
+    <language displayName="English (India)" localName="English (India)" languageCode="en-IN" country="India" />
+
+    <language displayName="Spanish (Spain)" localName="Español (España)" languageCode="es-ES" country="Spain" />
+    <language displayName="Spanish (Mexico)" localName="Español (México)" languageCode="es-MX" country="Mexico" />
+    <language displayName="Portuguese (Brazil)" localName="Português (Brasil)" languageCode="pt-BR" country="Brazil" />
+    <language displayName="Portuguese (Portugal)" localName="Português (Portugal)" languageCode="pt-PT" country="Portugal" />
+
+    <language displayName="Hindi" localName="हिन्दी" languageCode="hi-IN" country="India" />
+    <language displayName="Bengali" localName="বাংলা" languageCode="bn-BD" country="Bangladesh" />
+    <language displayName="Japanese" localName="日本語" languageCode="ja-JP" country="Japan" />
+    <language displayName="Korean" localName="한국어" languageCode="ko-KR" country="South Korea" />
+    <language displayName="Vietnamese" localName="Tiếng Việt" languageCode="vi-VN" country="Vietnam" />
+    <language displayName="Thai" localName="ไทย" languageCode="th-TH" country="Thailand" />
+    <language displayName="Indonesian" localName="Bahasa Indonesia" languageCode="id-ID" country="Indonesia" />
+    <language displayName="Burmese" localName="မြန်မာစာ" languageCode="my-MM" country="Myanmar" />
+    <language displayName="Marathi" localName="मराठी" languageCode="mr-IN" country="India" />
+    <language displayName="Telugu" localName="తెలుగు" languageCode="te-IN" country="India" />
+    <language displayName="Tamil" localName="தமிழ்" languageCode="ta-IN" country="India" />
+    <language displayName="Urdu" localName="اردو" languageCode="ur-PK" country="Pakistan" />
+    <language displayName="Gujarati" localName="ગુજરાતી" languageCode="gu-IN" country="India" />
+    <language displayName="Kannada" localName="ಕನ್ನಡ" languageCode="kn-IN" country="India" />
+    <language displayName="Malayalam" localName="മലയാളം" languageCode="ml-IN" country="India" />
+    <language displayName="Punjabi" localName="ਪੰਜਾਬੀ" languageCode="pa-PK" country="Pakistan" />
+
+    <language displayName="French (France)" localName="Français" languageCode="fr-FR" country="France" />
+    <language displayName="French (Canada)" localName="Français (Canada)" languageCode="fr-CA" country="Canada" />
+    <language displayName="German" localName="Deutsch" languageCode="de-DE" country="Germany" />
+    <language displayName="Italian" localName="Italiano" languageCode="it-IT" country="Italy" />
+    <language displayName="Russian" localName="Русский" languageCode="ru-RU" country="Russia" />
+    <language displayName="Turkish" localName="Türkçe" languageCode="tr-TR" country="Turkey" />
+    <language displayName="Ukrainian" localName="Українська" languageCode="uk-UA" country="Ukraine" />
+    <language displayName="Polish" localName="Polski" languageCode="pl-PL" country="Poland" />
+    <language displayName="Dutch" localName="Nederlands" languageCode="nl-NL" country="Netherlands" />
+    <language displayName="Greek" localName="Ελληνικά" languageCode="el-GR" country="Greece" />
+    <language displayName="Czech" localName="Čեština" languageCode="cs-CZ" country="Czech Republic" />
+    <language displayName="Hungarian" localName="Magyar" languageCode="hu-HU" country="Hungary" />
+    <language displayName="Romanian" localName="Română" languageCode="ro-RO" country="Romania" />
+    <language displayName="Swedish" localName="Svenska" languageCode="sv-SE" country="Sweden" />
+
+    <language displayName="Arabic (Standard)" localName="العربية" languageCode="ar-SA" country="Saudi Arabia" />
+    <language displayName="Persian" localName="فارسی" languageCode="fa-IR" country="Iran" />
+    <language displayName="Hebrew" localName="עברית" languageCode="he-IL" country="Israel" />
+    <language displayName="Amharic" localName="አማርኛ" languageCode="am-ET" country="Ethiopia" />
+    <language displayName="Hausa" localName="Hausa" languageCode="ha-NG" country="Nigeria" />
+    <language displayName="Swahili" localName="Kiswahili" languageCode="sw-KE" country="Kenya" />
+    <language displayName="Yoruba" localName="Èdè Yorùbá" languageCode="yo-NG" country="Nigeria" />
+    <language displayName="Zulu" localName="isiZulu" languageCode="zu-ZA" country="South Africa" />
+    <language displayName="Pashto" localName="پښتو" languageCode="ps-AF" country="Afghanistan" />
+    <language displayName="Kazakh" localName="Қазақ тілі" languageCode="kk-KZ" country="Kazakhstan" />
+</languages>
