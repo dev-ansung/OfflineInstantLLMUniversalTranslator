@@ -101,7 +101,7 @@ fun MainScreen(viewModel: MainViewModel = viewModel()) {
                 title = {
                     Column(modifier = Modifier.padding(start = 4.dp)) {
                         Text(
-                            text = "Babel Echo",
+                            text = "An Universal Translator",
                             style = MaterialTheme.typography.titleLarge,
                             fontWeight = FontWeight.Bold
                         )
