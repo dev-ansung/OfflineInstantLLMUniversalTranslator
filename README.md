@@ -1,17 +1,15 @@
 # An Universal Translator - Offline Instant LLM Universal Translator
 
 ## Feature
-* Clean jetpack compose UI with Google Material 3 design, providing a seamless and intuitive user experience.
-![Main Screen](images/main.png)
-* Universal Monolithic Architecture: Unlike legacy engines requiring discrete downloads for every language pair, this application leverages a single, unified model supporting 100 languages out-of-the-box, delivering a true universal translator experience with zero-download friction.
-![Input Language Menu](images/input_language.png)
-* Data Sovereignty: 100% of the inference happens on-device. No network requests are made during translation, ensuring zero data leakage and full operation in air-gapped environments like high-altitude flights or secure facilities.
-![Offline Translation](images/offline_translation)
-* Streaming Inference: Real-time partial results are rendered as the user speaks, providing a low-latency feedback loop that traditional "capture-then-process" engines cannot match.
-* Programmable Translation (Prompt Engineering): The translation logic is decoupled from the core engine, allowing developers to inject "Styles" via system prompts. This enables context-aware translations ranging from professional business jargon to creative linguistic adaptations.
-![Custom Translation](images/custom_translation.png)
-![Custom Output Language Menu](images/custom_output_language.png)
-* Stateful Error Recovery: Includes a robust state management system for manual speech-to-text (STT) correction and re-inference, ensuring accuracy isn't sacrificed for speed.
+
+ Feature | Visual |
+| :--- | :--- |
+| **Material 3 Native UI**: Built with Jetpack Compose to provide a seamless, modern, and intuitive user experience following current design principles. | ![Main Screen](images/main.png) |
+| **Universal Monolithic Architecture**: Unlike legacy engines requiring discrete downloads, this application leverages a single, unified model supporting **100+ languages out-of-the-box** for a true universal translator experience. | ![Input Language Menu](images/input_language.png) |
+| **Absolute Data Sovereignty**: 100% of inference is executed locally with zero network requests, ensuring security and privacy in air-gapped or secure environments. | ![Offline Translation](images/offline_translation.png) |
+| **Streaming Inference Engine**: Real-time partial results are rendered as the user speaks, delivering a low-latency feedback loop that traditional "capture-then-process" architectures cannot match. | *(Integrated into main interface)* |
+| **Programmable Translation**: The translation logic is decoupled from the core engine, allowing developers to inject "Styles" via prompt engineering for context-aware, professionally-tailored outputs. | ![Custom Translation](images/custom_translation.png) |
+| **Stateful Error Recovery**: Includes a robust state management system for manual speech-to-text (STT) correction and re-inference, ensuring high precision in critical communication scenarios. | ![Custom Output Language Menu](images/custom_output_language.png) |
 
 ## Use Cases
 * Secure Enterprise & Sovereign Communications: Protect high-value intellectual property and ensure regulatory compliance (GDPR/CCPA) by eliminating "cloud leakage" through 100% on-device, air-gapped inference for executive and legal proceedings.
